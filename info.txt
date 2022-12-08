@@ -1,0 +1,2 @@
+esto es una linea de texto
+nueva linea en el fichero
