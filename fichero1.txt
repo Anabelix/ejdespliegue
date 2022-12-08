@@ -1,1 +1,2 @@
 Nuevo fichero yasssss
+--Otra linea al fichero1.txt
