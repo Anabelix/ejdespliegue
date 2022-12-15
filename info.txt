@@ -11,3 +11,4 @@ It is a long established fact that a reader will be distracted by the readable c
 
 =======
 >>>>>>> parent of 5a0deb4 (Añadiendo nuevos ficheros y modificando info.txt)
+Nueva modificacion con la master
